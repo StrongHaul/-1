@@ -1,0 +1,92 @@
+U:\Выч. мат\lab2\lab2\bin\Debug\lab2.exe.config
+U:\Выч. мат\lab2\lab2\bin\Debug\lab2.exe
+U:\Выч. мат\lab2\lab2\bin\Debug\lab2.pdb
+U:\Выч. мат\lab2\lab2\bin\Debug\ZedGraph.dll
+U:\Выч. мат\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+U:\Выч. мат\lab2\lab2\obj\Debug\lab2.Form1.resources
+U:\Выч. мат\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+U:\Выч. мат\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+U:\Выч. мат\lab2\lab2\obj\Debug\lab2.exe
+U:\Выч. мат\lab2\lab2\obj\Debug\lab2.pdb
+E:\Выч. мат\lab2\lab2\bin\Debug\lab2.exe.config
+E:\Выч. мат\lab2\lab2\bin\Debug\lab2.exe
+E:\Выч. мат\lab2\lab2\bin\Debug\lab2.pdb
+E:\Выч. мат\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+E:\Выч. мат\lab2\lab2\obj\Debug\lab2.Form1.resources
+E:\Выч. мат\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+E:\Выч. мат\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+E:\Выч. мат\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+E:\Выч. мат\lab2\lab2\obj\Debug\lab2.exe
+E:\Выч. мат\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\bin\Debug\lab2.exe.config
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\bin\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\bin\Debug\lab2.pdb
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\obj\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Вычислительная математика\lab3\lab2\obj\Debug\lab2.pdb
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\bin\Debug\lab2.exe.config
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\bin\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\bin\Debug\lab2.pdb
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.pdb
+U:\Интерфейсы АСОИУ\lab3\lab2\bin\Debug\lab2.exe.config
+U:\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.exe
+U:\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.pdb
+U:\Интерфейсы АСОИУ\lab3\lab2\bin\Debug\lab2.exe
+U:\Интерфейсы АСОИУ\lab3\lab2\bin\Debug\lab2.pdb
+U:\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+U:\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.Form1.resources
+U:\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.Properties.Resources.resources
+U:\Интерфейсы АСОИУ\lab3\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+E:\Выч. мат\lab5\lab2\bin\Debug\lab2.exe.config
+E:\Выч. мат\lab5\lab2\obj\Debug\lab2.exe
+E:\Выч. мат\lab5\lab2\obj\Debug\lab2.pdb
+E:\Выч. мат\lab5\lab2\bin\Debug\lab2.exe
+E:\Выч. мат\lab5\lab2\bin\Debug\lab2.pdb
+E:\Выч. мат\lab5\lab2\obj\Debug\lab2.csprojResolveAssemblyReference.cache
+E:\Выч. мат\lab5\lab2\obj\Debug\lab2.Form1.resources
+E:\Выч. мат\lab5\lab2\obj\Debug\lab2.Properties.Resources.resources
+E:\Выч. мат\lab5\lab2\obj\Debug\lab2.csproj.GenerateResource.Cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\lab2.exe.config
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\lab2.pdb
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.exe
+C:\Users\SM\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.pdb
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.exe
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.pdb
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\lab2.exe.config
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\lab2.exe
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\lab2.pdb
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\System.ValueTuple.dll
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\bin\Debug\System.ValueTuple.xml
+C:\Users\ixsunoff\Google Диск\Учебное\Магистратура\Методы обработки экспериментальных данных\Лаб 1\lab2\obj\Debug\lab2.csproj.CopyComplete
